@@ -1,6 +1,6 @@
 const fs = require('fs').promises;
 
-const findMovie = 'IncEptIon'
+const findMovie = 'InceptIon'
 const search = findMovie.toLowerCase();
 
 async function searchMovie(search) {
